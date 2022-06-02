@@ -19,7 +19,7 @@ Curious to see what this looks like? Keep scrolling!
 *INCLUDE A NICE PICTURE AND/OR SCHEME.*
 
 <p align="center">
-<a href="#logo" name="logo"><img src="./IMAGES/"></a>
+<a href="#terrarium" name="terrarium"><img src=".terrarium_prism_first_print.png"></a>
 </p>
 
 The overall price is in the range *OF LESS THAT A ZILLION*.
