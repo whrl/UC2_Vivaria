@@ -3,10 +3,10 @@
 <a href="#logo" name="logo"><img src="https://raw.githubusercontent.com/bionanoimaging/UC2-GIT/master/IMAGES/UC2_logo_text.png" width="400"></a>
 </p>
 
-# openUC2 *PROJECT_NAME*
+# openUC2 *Vivaria*
 ---
 
-This repository will help you to build and setup *A NICE TOOL*.
+This repository will help you to build and setup *vivaria* such as terraria and aquaria.
 
 *DESCRIBE WHAT IT DOES AND WHAT IT IS FOR.*
 
