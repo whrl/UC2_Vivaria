@@ -14,8 +14,6 @@ Thus, various UC2 assemblies such as lens, camera or mirror cubes may be attache
 Future designs of the vivaria aim to be compoundable so that they can be easily be connected and extended if a group of animals expands.
 
 
-*DESCRIBE WHAT IT DOES AND WHAT IT IS FOR.*
-
 Curious to see what this looks like? Keep scrolling!
 
 *INCLUDE A NICE PICTURE AND/OR SCHEME.*
@@ -28,16 +26,12 @@ The overall price is in the range *OF LESS THAT A ZILLION*.
 
 
 ***Features:***
-* IT MOVES?!
-* IT TAKES IMAGES?!
-* IT DOES YOUR LAUNDRY?!
+* it can house living specimen
 
 
 # Table of Content
-* **[Software](#-software)**
 * **[Hardware](#-hardware)**
 * **[Bill of materials](#-bill-of-materials)**
-* **[Electronics](#-electronics)**
 * **[Results](#-results)**
 
 
@@ -48,15 +42,6 @@ The overall price is in the range *OF LESS THAT A ZILLION*.
 <a href="#logo" name="logo"><img src="./IMAGES/" width="600"></a>
 </p>
 
-
-# Software
-*HOW DO I CONTROL THIS THING?*
-
-## Custom Python code *IF APPLICABLE*
-We also provide a code example for driving the device using a python driver. Please refer to the code and the package in the folder [PYTHON](./PYTHON).
-
-## *CUSTOM FANCY SOFTWARE*
-We also provide *SOME SORCERY* for driving the device. Find the files in folder [*MY_AWESOME_SOFTWARE*]().
 
 # Hardware
 
