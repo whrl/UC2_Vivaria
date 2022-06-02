@@ -8,6 +8,12 @@
 
 This repository will help you to build and setup *vivaria* such as terraria and aquaria.
 
+The proposed vivaria can be used to house and observe living organisms in the size of ants, for instance. 
+The vivaria fit into the UC2 architecture and may function therefore as a kind of observation container or sample holder for moving specimen.
+Thus, various UC2 assemblies such as lens, camera or mirror cubes may be attached to the vivaria to record animal behviours. 
+Future designs of the vivaria aim to be compoundable so that they can be easily be connected and extended if a group of animals expands.
+
+
 *DESCRIBE WHAT IT DOES AND WHAT IT IS FOR.*
 
 Curious to see what this looks like? Keep scrolling!
